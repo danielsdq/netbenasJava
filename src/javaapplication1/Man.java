@@ -14,10 +14,10 @@ public class Man {
     private String paciente;
     private String consulta;
 
-    public Man(int num, String paciente, String consulta) {
-        this.num = num;
-        this.paciente = paciente;
-        this.consulta = consulta;
+    public Man(int n, String p, String c) {
+        this.num = n;
+        this.paciente = p;
+        this.consulta = c;
     }
     
     
